@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner.png" alt="Parcours Métiers Data" width="100%" />
+</div>
+
+<br/>## Hi there 👋
 
 <!--
 **SidyDCode/SidyDCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
